@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there I'm [Apriansyah R.](https://apriansyahrs.my.id)! 👋
 
-<!--
-**apriansyahrs/apriansyahrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [CV. Akses Digital](https://aksesdigital.co.id) as UIX Designer
+- 🌱 I’m currently learning UI/UX
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/regexdev)
+- 😄 Pronouns: he/him.
+<!-- - ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apriansyahrs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriansyahrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
