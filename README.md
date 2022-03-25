@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [CV. Akses Digital](https://aksesdigital.co.id) as UIX Designer
 - 🌱 I’m currently learning UI/UX
+- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/regexdev)
+- 😄 Pronouns: he/him.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/regexdev)
-- 😄 Pronouns: he/him.
 <!-- - ⚡ Fun fact: ... -->
 
 ### Github Stats
