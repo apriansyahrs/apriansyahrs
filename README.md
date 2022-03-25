@@ -1,7 +1,7 @@
 ### Hi there I'm [Apriansyah R.](https://apriansyahrs.my.id)! 👋
 
 
-- 🔭 I’m currently working on [CV. Akses Digital](https://aksesdigital.co.id) as UIX Designer
+- 🔭 I’m currently working at [CV. Akses Digital](https://aksesdigital.co.id) as UIX Designer
 - 🌱 I’m currently learning UI/UX
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/regexdev)
 - 😄 Pronouns: he/him.
