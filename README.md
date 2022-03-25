@@ -1,4 +1,4 @@
-### Hi there I'm [Apriansyah R.](https://apriansyahrs.my.id)! 👋
+### Hi there I'm [Apri](https://apriansyahrs.my.id)! 👋
 
 
 - 🔭 I’m currently working at [CV. Akses Digital](https://aksesdigital.co.id) as UIX Designer
