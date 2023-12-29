@@ -1,9 +1,8 @@
 ### <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" width="32"> Hi there I'm [Apri ](https://apriansyahrs.my.id)! 
 
 
-- 🔭 I’m currently working at [Akses Digital](https://aksesdigital.co.id) as UI/UX Designer
-- 🌱 I’m currently learning UI/UX
-- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/regexdev)
+- 🌱 I’m currently learning UI/UX, Ethical Hacking, Fullstack Dev
+- 📫 How to reach me: Reach out to me directly through my [Instagram](https://instagram.com/uixarss)
 - 😄 Pronouns: he/him.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
